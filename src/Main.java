@@ -150,6 +150,6 @@ public class Main {
 		// Retorna a quantidade de viagens mínimas
 		return qtdViagens;
 		
-	}
+	} // fim do qtdMinimaDeViagens()
 
 }
